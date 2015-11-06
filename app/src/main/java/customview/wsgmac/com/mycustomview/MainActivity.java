@@ -13,12 +13,12 @@ import customview.wsgmac.com.mycustomview.view.ECGView;
 
 
 /**
- *
+ * 2015年11月06日16:04:31
  */
 public class MainActivity extends Activity implements View.OnClickListener{
 
 
-    private Button btn1;
+    private Button btn1; //按钮1
     private Button btn2;
     private Button btn3;
     private Button btn4;
