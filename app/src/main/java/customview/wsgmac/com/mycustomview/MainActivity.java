@@ -19,7 +19,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
 
     private Button btn1; //按钮1
-    private Button btn2; //23333
+    private Button btn2; //2999
     private Button btn3;
     private Button btn4;
 
