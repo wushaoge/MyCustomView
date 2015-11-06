@@ -13,7 +13,7 @@ import customview.wsgmac.com.mycustomview.view.ECGView;
 
 
 /**
- * 2015年11月06日16:04:31
+ * 2015年11月06日16:04:31 33
  */
 public class MainActivity extends Activity implements View.OnClickListener{
 
